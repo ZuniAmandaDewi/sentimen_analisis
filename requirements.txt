@@ -1,9 +1,5 @@
 pandas
 numpy
-re
-nltk
-Satstrawi
-sklearn
 streamlit
-pickle
 scikit-learn
+pip
